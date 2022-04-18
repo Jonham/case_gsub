@@ -1,0 +1,11 @@
+{
+  "name": "case_gsub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jonham/case_gsub.git",
+  "author": "Jonham.Chen <me@jonham.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^17.0.24"
+  }
+}
